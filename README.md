@@ -1,5 +1,5 @@
 # weather-app
-This is the repo of the Weather app from my YouTube video
+This is the repo of the Weather app from my [YouTube video](https://www.youtube.com/watch?v=eoj-CnrR9jA&t=658s)
 
 # Project structure
 In this project you build a end-to-end pipeline from requesting weather data from an API to visualizing the results on a Dashboard.
